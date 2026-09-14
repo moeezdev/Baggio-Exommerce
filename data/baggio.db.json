@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_1",
+      "name": "Baggio Administrator",
+      "email": "admin@baggio.com",
+      "passwordHash": "$2b$10$J5nhChMER.VswhHjJS/1QeIZvSPOcPCByMcPaGt0neEc6coMQkFwC",
+      "phone": "+1 (555) 987-6543",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "addresses": [],
+  "categories": [],
+  "products": [],
+  "carts": [
+    {
+      "id": "cart_1789404000136_fdds",
+      "sessionId": "guest_1789386527386",
+      "items": [],
+      "updatedAt": "2026-09-14T16:40:00.136Z"
+    }
+  ],
+  "wishlists": {},
+  "orders": [],
+  "reviews": [],
+  "coupons": [],
+  "banners": [],
+  "storeSettings": {
+    "id": "settings_default",
+    "storeName": "Baggio",
+    "logo": "/baggio-logo.svg",
+    "email": "concierge@baggio.com",
+    "phone": "+1 (800) 555-0199",
+    "address": "450 Via della Spiga, Milan / 742 Madison Ave, New York",
+    "currency": "PKR",
+    "country": "United States",
+    "timezone": "America/New_York",
+    "shippingFee": 250,
+    "freeShippingThreshold": 5000,
+    "taxPercentage": 8.5,
+    "enableCod": true,
+    "cancellationRules": "Orders may be cancelled within 12 hours of placement before entering processing status."
+  },
+  "auditLogs": []
+}

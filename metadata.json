@@ -1,0 +1,6 @@
+{
+  "name": "Baggio",
+  "description": "Full-stack e-commerce platform and admin dashboard with store, catalog, cart, checkout, orders, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
